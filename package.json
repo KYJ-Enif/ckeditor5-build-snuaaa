@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "version": "17.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "name": "@ckeditor/ckeditor5-build-snuaaa",
+  "version": "17.0.0a",
+  "description": "The classic editor build of CKEditor 5 for snuaaa – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -93,5 +93,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }

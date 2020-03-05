@@ -4,6 +4,7 @@
  */
 
 /* eslint-env node */
+/*eslint linebreak-style: ["error", "windows"]*/
 
 'use strict';
 
